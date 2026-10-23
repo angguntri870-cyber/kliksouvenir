@@ -1,0 +1,21 @@
+{
+  "name": "Klik Souvenir - Vendor Souvenir Kantor & Corporate Gift",
+  "short_name": "Klik Souvenir",
+  "description": "Vendor souvenir kantor, seminar kit, dan corporate gift premium terpercaya di Indonesia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

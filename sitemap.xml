@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Beranda Utama -->
+  <url>
+    <loc>https://kliksouvenir.id/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/hero-1.jpg</image:loc>
+      <image:title>Klik Souvenir - Vendor Souvenir Kantor dan Corporate Gift Premium</image:title>
+      <image:caption>Solusi souvenir promosi kantor, seminar kit, dan merchandise perusahaan custom logo di Klik Souvenir</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/hero-2.jpg</image:loc>
+      <image:title>Personalisasi Logo Grafir Laser &amp; UV Printing Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <!-- Halaman Katalog & Produk -->
+  <url>
+    <loc>https://kliksouvenir.id/produk.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/gift-box.jpg</image:loc>
+      <image:title>Katalog Lengkap Souvenir Kantor Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <!-- Kategori Produk Spesifik -->
+  <url>
+    <loc>https://kliksouvenir.id/executive-gift-set.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/gift-box.jpg</image:loc>
+      <image:title>Executive Gift Set &amp; VIP Box Eksklusif Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/tumbler-botol-minum.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/tumbler.jpg</image:loc>
+      <image:title>Tumbler Stainless Steel Custom Grafir Logo Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/agenda-pen-promosi.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/notebook-pen.jpg</image:loc>
+      <image:title>Agenda Kulit PU Emboss &amp; Pen Promosi Metal Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/seminar-kit-tas-kanvas.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/tote-bag.jpg</image:loc>
+      <image:title>Seminar Kit Lengkap &amp; Totebag Kanvas Branded Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/flashdisk-gadget-kantor.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/flashdisk.jpg</image:loc>
+      <image:title>Flashdisk Kartu &amp; Aksesoris Gadget Kantor Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/mug-keramik-meja-kantor.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/mug.jpg</image:loc>
+      <image:title>Mug Keramik Meja Kantor Custom Sablon Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/eco-friendly-souvenir.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/eco-package.jpg</image:loc>
+      <image:title>Eco-Friendly Souvenir Ramah Lingkungan Klik Souvenir</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan & Tentang Kami -->
+  <url>
+    <loc>https://kliksouvenir.id/layanan.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/about.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog & Artikel Edukasi AEO / GEO -->
+  <url>
+    <loc>https://kliksouvenir.id/blog.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/5-item-seminar-kit-perusahaan.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/souvenir/hero-3.jpg</image:loc>
+      <image:title>5 Item Souvenir Wajib Ada dalam Seminar Kit Perusahaan yang Berkesan</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/executive-gift-set-mitra-bisnis.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kliksouvenir.id/assets/img/blog/paket-hadiah-korporat-eksklusif.webp</image:loc>
+      <image:title>Executive Gift Set, Cara Memberi Kesan Premium kepada Klien dan Mitra Bisnis</image:title>
+      <image:caption>Paket hadiah korporat eksklusif untuk direksi dan mitra strategis dari Klik Souvenir</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Informasi Legalitas & Kebijakan -->
+  <url>
+    <loc>https://kliksouvenir.id/privacy.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://kliksouvenir.id/terms.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
